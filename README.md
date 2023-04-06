@@ -2,10 +2,10 @@
 
 This is a React app that uses WebSockets to display real-time prices for Bitcoin (BTC) and Ethereum (ETH).
 
-This app needs as for client:
+This app needs as for server:
 
 ```
-https://github.com/your-username/real-time-crypto-price-tracker.git
+https://github.com/Arcturus91/cryptoWebsocketPrice
 ```
 
 Specifically, you will need to use the server branch.
